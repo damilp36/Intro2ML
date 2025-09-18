@@ -52,3 +52,13 @@ That’s it! You now have the project on your computer.
 ## Getting Started
 After cloning, open the project in VS Code.  
 If you’re using Jupyter notebooks, install the **Python** and **Jupyter** extensions in VS Code.
+
+---
+
+## New Additions (Updated 2025-09-18)
+- **Decision Trees & Random Forests Beginner Notebook**: Learn tree-based models with examples.  
+- **Healthcare Hands-on Assessment v2**: Interactive exercise notebook using a healthcare dataset.  
+  - Includes EDA, visualization, statistics, and a machine learning challenge.  
+  - Students compare **Decision Tree vs Random Forest** performance.
+
+---
